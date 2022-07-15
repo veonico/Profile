@@ -3,7 +3,7 @@
 ## 📝 Who am I?
 - Sungkyunkwan University (Economics & Computer Science and Engineering)
 - Boostcamper of [Boostcamp AI Tech 2nd](https://boostcamp.connect.or.kr/about.html) by NAVER Connect Foundation ('21.07 ~ '21.12)
-- SSAFY Tutee ('22.07 ~)
+- Tutee of [Samsung Software Academy For Youth](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) ('22.07 ~)
 
 ## 💻 Skills
 
